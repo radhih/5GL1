@@ -19,6 +19,7 @@ import edu.esprit.gestion_projet.domain.Entity.Developer;
 import edu.esprit.gestion_projet.domain.Entity.Reporter;
 import edu.esprit.gestion_projet.services.IService.IUserManager;
 //tests mahdi
+//sonarLunch
 //emailTEST
 //radhihouli
 @RunWith(MockitoJUnitRunner.class)
