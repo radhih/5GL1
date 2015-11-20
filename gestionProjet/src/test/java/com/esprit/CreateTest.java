@@ -18,8 +18,13 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import edu.esprit.gestion_projet.domain.Entity.Developer;
 import edu.esprit.gestion_projet.domain.Entity.Reporter;
 import edu.esprit.gestion_projet.services.IService.IUserManager;
+
 //SONARQUBE
 //emailTEST33
+//tests mahdi
+//sonarLunch2 /// /// 20/11/2015
+//emailTEST
+
 //radhihouli
 @RunWith(MockitoJUnitRunner.class)
 public class CreateTest {
