@@ -19,7 +19,7 @@ import edu.esprit.gestion_projet.services.IService.IUserManager;
 //charfis
 //Test TEST
 //radhihouli EMAIL SUCCESS
-//git bash
+//git bash37
 @RunWith(MockitoJUnitRunner.class)
 public class CreateTest {
 	
