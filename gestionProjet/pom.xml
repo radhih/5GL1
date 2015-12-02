@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.esprit</groupId>
   <artifactId>gestionProjet</artifactId>
-  <version>3.0-SNAPSHOT</version>
+  <version>4.0-SNAPSHOT</version>
 <distributionManagement>
   <repository>
     <id>deployment</id>
